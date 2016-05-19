@@ -23,7 +23,7 @@ body{
 }
 
 #wrapper{
-	background-image: url(../images/background/recherchejob.jpg);
+	background-image: url(../images/background/recherchejob2.jpg);
 	height: 600px;
 	background-size: cover;
 	text-align: center;
@@ -111,15 +111,15 @@ body{
 	background-color: #8ED19E;
 	padding-top: 3em;
 	padding-bottom: 3em;
-	text-align: center;
+	text-align: right;
 	border:none;
 }
 
 #why h4{
 	text-align: center;
-	font-size: 30px;
+	font-size: 35px;
 	color: white;
-	
+	font-weight: 300;
 }
 
 .color-wrapper{
@@ -157,7 +157,7 @@ body{
 }
 
 .offre{
-	padding-top: 180px;
+	padding-top: 150px;
 }
 
 #explain{
@@ -169,12 +169,19 @@ body{
 
 #explain h3{
 	font-size: 35px;
+	color: black;
+	font-weight: bold;
 }
 
 .iphone{
-	padding-top: 50px;
+	padding-top: 70px;
 }
 
+.maintenant{
+	font-size: 35px;
+	color: white;
+	font-weight: bold;
+}
 
 
 
