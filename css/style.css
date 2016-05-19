@@ -1,0 +1,180 @@
+body{
+	background-color: white;
+	font-family: "Open Sans";
+}
+
+#footer{
+	background-color: #8ED19E;
+	padding-top: 3em;
+	padding-bottom: 3em;
+	color: white;
+}
+
+#footer a{
+	color: white;
+}
+
+#footer a:hover{
+	color: #6DBE7C;
+}
+
+.social a{
+	font-size: 24px;
+}
+
+#wrapper{
+	background-image: url(../images/background/recherchejob.jpg);
+	height: 600px;
+	background-size: cover;
+	text-align: center;
+	padding-top: 100px;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+	margin-top:-20px;
+}
+
+#wrapper h1{
+	font-size: 72px;
+	margin-top: -70px;
+	color: #DC5A26;
+}
+
+#wrapper h2{
+	font-size: 40px;
+	margin-top: 50px;
+	color: white;
+}
+
+.button-accueil{
+	padding: 12px;
+	font-size: 22px;
+	margin-top: 30px;
+	background-color: #8ED19E;
+	border: none;
+}
+
+#wrapper a:hover{
+	background-color: #8ED19E;
+}
+
+.excuse{
+	font-size: 40px;
+	margin-top: -50px;
+	margin-bottom: 2em;
+	color: black;
+}
+
+.space-feature{
+	padding-top: 7em;
+	padding-bottom: 7em;
+}
+
+.feature p{
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.feature img{
+	margin-bottom: 1em;
+}
+
+.navbar-transparent {
+  background-color: #8ED19E;
+  border: none;
+}
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: white;
+  line-height: 35px;
+}
+
+.navbar-transparent .navbar-nav > li > a:hover,
+.navbar-transparent .navbar-nav > li > a:active,
+.navbar-transparent .navbar-nav > li > a:focus,
+.navbar-transparent .navbar-nav > .open > a,
+.navbar-transparent .navbar-nav > .open > a:hover,
+.navbar-transparent .navbar-nav > .open > a:focus {
+  color: white;
+}
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus {
+  color: white;
+}
+
+.navbar-right{
+	font-size: 16px;
+}
+
+#why{
+	background-color: #8ED19E;
+	padding-top: 3em;
+	padding-bottom: 3em;
+	text-align: center;
+	border:none;
+}
+
+#why h4{
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	
+}
+
+.color-wrapper{
+	background-color: white;
+}
+
+.royal{
+	font-size: 18px;
+	text-align: center;
+}
+
+.button-bas{
+	text-align: center;
+	margin-top: 35px;
+}
+
+
+.button-bas a{
+	font-size: 22px;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.button-bas a:hover{
+	background-color: #8ED19E;
+}
+
+.btn-primary{
+		font-size: 22px;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.btn-primary:hover{
+	background-color: #6DBE7C;
+	border: none;
+}
+
+.offre{
+	padding-top: 180px;
+}
+
+#explain{
+	color:black;
+	padding-top: 3em;
+	padding-bottom: 3em;
+	text-align: center;
+}
+
+#explain h3{
+	font-size: 35px;
+}
+
+.iphone{
+	padding-top: 50px;
+}
+
+
+
+
