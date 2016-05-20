@@ -4,14 +4,14 @@ body{
 }
 
 #footer{
-	background-color: #8ED19E;
+	background-color: white;
 	padding-top: 3em;
 	padding-bottom: 3em;
 	color: white;
 }
 
 #footer a{
-	color: white;
+	color: #8ED19E;
 }
 
 #footer a:hover{
@@ -111,7 +111,7 @@ body{
 	background-color: #8ED19E;
 	padding-top: 3em;
 	padding-bottom: 3em;
-	text-align: right;
+	text-align: center;
 	border:none;
 }
 
@@ -181,6 +181,30 @@ body{
 	font-size: 35px;
 	color: white;
 	font-weight: bold;
+}
+
+#reason{
+	background-color: #8ED19E;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	text-align: center;
+	border: none;
+	color: white;
+	font-size: 25px;
+}
+
+#reason h5{
+	font-size: 35px;
+	color: white;
+	font-weight: bold;
+}
+
+.reason1{
+	padding-top: 2em;
+}
+
+.text-right{
+	color: #8ED19E;
 }
 
 
