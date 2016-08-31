@@ -1,5 +1,5 @@
 body{
-	background-color: #8ED19E;
+	background-color: white;
 	font-family: "Open Sans";
 }
 
@@ -24,8 +24,8 @@ body{
 }
 
 #wrapper{
-	background-image: url(../images/background/recherchejob2.jpg);
-	height: 700px;
+	background-image: url(../images/background/balconparis2.jpg);
+	height: 650px;
 	background-size: cover;
 	text-align: center;
 	padding-top: 100px;
@@ -35,15 +35,17 @@ body{
 
 #wrapper h1{
 	font-size: 72px;
-	margin-top: -70px;
+	margin-top: -50px;
 	color: #DC5A26;
 }
 
 #wrapper h2{
-	font-size: 40px;
-	margin-top: 70px;
+	font-size: 50px;
+	margin-top: 80px;
 	color: white;
+	font-family: "Montserrat";
 }
+
 
 .button-accueil{
 	padding: 12px;
@@ -51,6 +53,7 @@ body{
 	margin-top: 30px;
 	background-color: #8ED19E;
 	border: none;
+	font-family: "Montserrat"
 }
 
 #wrapper a:hover{
@@ -83,7 +86,7 @@ body{
 .navbar-transparent .navbar-brand,
 .navbar-transparent .navbar-nav > li > a {
   color: white;
-  line-height: 40px;
+  line-height: 30px;
 }
 
 .navbar-transparent .navbar-nav > li > a:hover,
@@ -172,7 +175,7 @@ body{
 }
 
 .iphone{
-	padding-top: 70px;
+	padding-top: 60px;
 }
 
 .maintenant{
